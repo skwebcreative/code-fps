@@ -5,7 +5,7 @@ using UnityEngine;
 public class C11_Weapon
 {
     private int type	= 0;			// 武器タイプ
-	private int num		= 2;			// 武器の種類数
+	private int num		= 3;			// 武器の種類数
     // Start is called before the first frame update
     void Start()
     {
